@@ -1,5 +1,5 @@
 # Portifolio-12
-Portifolío proposto nas aulas da Dnc.
+Portifolío proposto em aula.
 
 Link do site : https://portifolio-12.netlify.app
 
